@@ -1,4 +1,4 @@
-# ELEVATE_LABS DAY!
+# ELEVATE_LABS DAY1
 
 
 # 🌟 Responsive Landing Page (HTML + CSS Only)
