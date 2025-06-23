@@ -7,19 +7,7 @@ A modern, responsive landing page built using **pure HTML5 and CSS3** — no fra
 
 ---
 
-## 🔍 Live Demo
 
-👉 **[View Live on GitHub Pages](https://your-username.github.io/your-repo-name/)**  
-*(Replace the URL above with your actual GitHub Pages link)*
-
----
-
-## 📸 Screenshot
-
-![Screenshot of Landing Page](hero.jpg)  
-> *You can replace this with a real screenshot later.*
-
----
 
 ## 🚀 Features
 
