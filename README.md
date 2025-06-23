@@ -12,7 +12,6 @@ A modern, responsive landing page built using **pure HTML5 and CSS3** — no fra
 ## 🚀 Features
 
 - ✅ Pure HTML and CSS
-- 🌄 Full-screen hero background image
 - 📱 Fully responsive on all screen sizes
 - 🌐 CSS-only mobile navbar toggle (no JS)
 - 🎨 Stylish call-to-action button and hover effects
@@ -20,5 +19,4 @@ A modern, responsive landing page built using **pure HTML5 and CSS3** — no fra
 
 ---
 
-## 🗂 Folder Structure
 
